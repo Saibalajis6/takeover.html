@@ -1,1 +1,1 @@
-# takeover.html
+subdomain takeover by balu@hacker
